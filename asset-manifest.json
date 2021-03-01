@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tot-systems-test-chat/static/css/main.a829b5c1.chunk.css",
-    "main.js": "/tot-systems-test-chat/static/js/main.e4b08693.chunk.js",
-    "main.js.map": "/tot-systems-test-chat/static/js/main.e4b08693.chunk.js.map",
+    "main.js": "/tot-systems-test-chat/static/js/main.8a344a8e.chunk.js",
+    "main.js.map": "/tot-systems-test-chat/static/js/main.8a344a8e.chunk.js.map",
     "runtime-main.js": "/tot-systems-test-chat/static/js/runtime-main.56281ab3.js",
     "runtime-main.js.map": "/tot-systems-test-chat/static/js/runtime-main.56281ab3.js.map",
     "static/js/2.092cc681.chunk.js": "/tot-systems-test-chat/static/js/2.092cc681.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.56281ab3.js",
     "static/js/2.092cc681.chunk.js",
     "static/css/main.a829b5c1.chunk.css",
-    "static/js/main.e4b08693.chunk.js"
+    "static/js/main.8a344a8e.chunk.js"
   ]
 }
