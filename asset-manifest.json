@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.31520903.chunk.css",
-    "main.js": "/static/js/main.e0f1119f.chunk.js",
-    "main.js.map": "/static/js/main.e0f1119f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.40f3fcd9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.40f3fcd9.js.map",
-    "static/js/2.092cc681.chunk.js": "/static/js/2.092cc681.chunk.js",
-    "static/js/2.092cc681.chunk.js.map": "/static/js/2.092cc681.chunk.js.map",
-    "static/js/3.a095d598.chunk.js": "/static/js/3.a095d598.chunk.js",
-    "static/js/3.a095d598.chunk.js.map": "/static/js/3.a095d598.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.31520903.chunk.css.map": "/static/css/main.31520903.chunk.css.map",
-    "static/js/2.092cc681.chunk.js.LICENSE.txt": "/static/js/2.092cc681.chunk.js.LICENSE.txt",
-    "static/media/SendMessageForm.css": "/static/media/send-message.63c60563.svg",
-    "static/media/Auth.css": "/static/media/space.fb9a20e7.jpg"
+    "main.css": "/tot-systems-test-chat/static/css/main.a829b5c1.chunk.css",
+    "main.js": "/tot-systems-test-chat/static/js/main.09cbcb33.chunk.js",
+    "main.js.map": "/tot-systems-test-chat/static/js/main.09cbcb33.chunk.js.map",
+    "runtime-main.js": "/tot-systems-test-chat/static/js/runtime-main.56281ab3.js",
+    "runtime-main.js.map": "/tot-systems-test-chat/static/js/runtime-main.56281ab3.js.map",
+    "static/js/2.092cc681.chunk.js": "/tot-systems-test-chat/static/js/2.092cc681.chunk.js",
+    "static/js/2.092cc681.chunk.js.map": "/tot-systems-test-chat/static/js/2.092cc681.chunk.js.map",
+    "static/js/3.a095d598.chunk.js": "/tot-systems-test-chat/static/js/3.a095d598.chunk.js",
+    "static/js/3.a095d598.chunk.js.map": "/tot-systems-test-chat/static/js/3.a095d598.chunk.js.map",
+    "index.html": "/tot-systems-test-chat/index.html",
+    "static/css/main.a829b5c1.chunk.css.map": "/tot-systems-test-chat/static/css/main.a829b5c1.chunk.css.map",
+    "static/js/2.092cc681.chunk.js.LICENSE.txt": "/tot-systems-test-chat/static/js/2.092cc681.chunk.js.LICENSE.txt",
+    "static/media/SendMessageForm.css": "/tot-systems-test-chat/static/media/send-message.63c60563.svg",
+    "static/media/Auth.css": "/tot-systems-test-chat/static/media/space.fb9a20e7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.40f3fcd9.js",
+    "static/js/runtime-main.56281ab3.js",
     "static/js/2.092cc681.chunk.js",
-    "static/css/main.31520903.chunk.css",
-    "static/js/main.e0f1119f.chunk.js"
+    "static/css/main.a829b5c1.chunk.css",
+    "static/js/main.09cbcb33.chunk.js"
   ]
 }
