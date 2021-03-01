@@ -1,0 +1,70 @@
+.send-form {
+  box-sizing: border-box;
+  height: 70px;
+  display: flex;
+  padding: 0 0 0 6px;
+  width: 80%;
+  margin-left: 20%;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  opacity: 0.8;
+}
+
+.send-form__input {
+  width: 80%;
+  padding: 20px 10px;
+  font-weight: 400;
+  font-size: 20px;
+  background-color: white;
+  border: 3px solid rgba(0, 70, 128, 0.7);
+  border-radius: 10px;
+  color: black;
+  outline: none;
+  height: 100%;
+  box-sizing: border-box;
+}
+
+.send-form__input:focus {
+  border: 3px solid black;
+  border-radius: 10px;
+}
+
+.send-form__submit {
+  width: 20%;
+  height: 100%;
+  background-image: url(../images/send-message.svg);
+  background-size: 50px 50px;
+  background-repeat: no-repeat;
+  background-position: center;
+  cursor: pointer;
+  padding: 0;
+  border: 3px solid rgba(0, 70, 128, 0.7);
+  border-radius: 10px;
+  margin: 0 0 0 5px;
+  outline: none;
+  background-color: white;
+  transition: 0.4s;
+}
+
+.send-form__submit:hover {
+  opacity: 0.5;
+  border: 3px solid black;
+}
+
+@media screen and (max-width: 500px) {
+  .send-form {
+    height: 50px;
+  }
+
+  .send-form__submit {
+    background-size: 35px 35px;
+  }
+
+  .send-form__input {
+    height: 100%;
+    box-sizing: border-box;
+    font-size: 15px;
+  }
+}

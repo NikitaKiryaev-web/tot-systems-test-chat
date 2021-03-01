@@ -1,0 +1,24 @@
+.sidebar {
+  margin: 0;
+  padding: 0;
+  width: 20%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(245, 223, 77);
+  position: fixed;
+}
+
+.sidebar__link {
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding: 16px;
+}
+
+.sidebar__link_active {
+  background-color: rgb(147, 149, 151);
+}
+
+.sidebar__link:hover {
+  background-color: rgb(147, 149, 151);
+}
