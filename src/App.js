@@ -4,7 +4,6 @@
  import SendMessageForm from './components/SendMessageForm';
  import Auth from './components/Auth.js';
  import {Switch, Route, Redirect, useHistory} from 'react-router-dom';
- import messageData from './utils/messageData.js';
  import usersData from './utils/usersData.js';
  import {useState, useEffect} from 'react';
 
